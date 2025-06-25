@@ -1,0 +1,14 @@
+[project]
+name = "comfyUI-notes-manager"
+description = "Simple Notes"
+version = "1.0"
+# license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/OgreLemonSoup/ComfyUI-Notes-manager"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ogrelemonsoup"
+DisplayName = "ComfyUI-Notes-manager"
+Icon = ""
