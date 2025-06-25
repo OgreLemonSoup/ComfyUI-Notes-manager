@@ -1,5 +1,5 @@
 [project]
-name = "comfyUI-notes-manager"
+name = "comfyui-notes-manager"
 description = "Simple Notes"
 version = "1.0"
 # license = {file = "LICENSE"}
